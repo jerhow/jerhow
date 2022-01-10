@@ -1,7 +1,7 @@
 - Hi, I’m Jerry 👋
 - I’m interested in experimental art and music, code, Bitcoin ₿, interesting projects and authentic people 👀
 - I’m currently learning 6502/6507 assembly language for the Atari 2600 🌱
-- I enjoy Ruby, Go and Clojure. I still like relational databases.
+- I enjoy Ruby, Go, Clojure and PHP. I still like relational databases.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
