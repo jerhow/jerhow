@@ -1,6 +1,6 @@
 - Hi, I’m Jerry 👋
 - I’m interested in experimental art and music, code, cryptocurrencies, interesting projects and authentic people 👀
-- I enjoy C#, Ruby, Go, Clojure, PHP, and ASM on retro hardware (specifically 6502 and Z80). I still like relational databases.
+- I enjoy Ruby, Go, Clojure, C#, PHP, and ASM on retro hardware (specifically 6502 and Z80). I still like relational databases.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
