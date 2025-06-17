@@ -2,7 +2,7 @@
 - Interested in experimental art and music, interesting technical projects, authentic people, and the subtle, uncanny horror of artificial intelligence 🤖
 - I enjoy C#, Ruby, Go, Clojure, PHP, and ASM on retro hardware (6502 / Z80)
 - My most recent experience (the past 5 years) has been in health care technology
-- Currently experimenting with useful applications of AI in health care
+- Currently experimenting with interesting applications of AI in health care
 - 📫 [LinkedIn](https://www.linkedin.com/in/jerhow/)
 
 <!---
