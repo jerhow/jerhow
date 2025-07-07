@@ -2,8 +2,10 @@
 - Interested in experimental art and music, interesting technical projects, authentic people, and tracking the progression of artificial intelligence
 - I enjoy C#, Ruby, Go, Clojure, PHP, and learning ASM on retro hardware (6502 / Z80)
 - My most recent experience (the past 5 years) has been in health care technology
-- Currently experimenting with interesting applications of AI in health care
-- 📫 [LinkedIn](https://www.linkedin.com/in/jerhow/)
+- Currently experimenting with useful applications of AI in health care
+- [LinkedIn](https://www.linkedin.com/in/jerhow/)
+- [Wellfound](https://wellfound.com/u/jerryhoward)
+- [Peerlist](https://peerlist.io/jhoward22)
 
 <!---
 - 💞️ I’m looking to collaborate on ...
