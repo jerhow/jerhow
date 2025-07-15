@@ -7,7 +7,7 @@
   + [AI-Powered Medical Coding Assistant](https://github.com/jerhow/AI-medical-coding-assistant)
   + [AI-Powered Clinical Summary Generator](https://github.com/jerhow/AI-clinical-summary-generator)
  
-- I tend to keep a low profile online, but here are a few places I exist in a professional context:
+- Where to find me in a professional context:
   + [LinkedIn](https://www.linkedin.com/in/jerhow/)
   + [Wellfound](https://wellfound.com/u/jerryhoward)
   + [Peerlist](https://peerlist.io/jhoward22)
