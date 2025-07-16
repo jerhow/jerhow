@@ -3,7 +3,7 @@
 - I enjoy C#, Go, Ruby, Clojure, PHP, and learning ASM on retro hardware (6502, Z80).
 - My most recent experience (the past 5 years) has been in health care technology.
 - I have held both individual developer and leadership roles in technology, although I consider myself a programmer and hands-on builder first.
-- Currently experimenting with useful applications of AI in health care, via Azure-hosted side projects:
+- Currently experimenting with useful applications of AI in health care, via these Azure-hosted side projects:
   + [AI-Powered Medical Image Processor](https://github.com/jerhow/AI-medical-image-processor)
   + [AI-Powered Medical Coding Assistant](https://github.com/jerhow/AI-medical-coding-assistant)
   + [AI-Powered Clinical Summary Generator](https://github.com/jerhow/AI-clinical-summary-generator)
