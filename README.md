@@ -1,5 +1,5 @@
 - Based in Northern Colorado.
-- Interested in experimental art and music, interesting technical projects, authentic people, philosophy, artificial intelligence, and of course, programming.
+- Interested in experimental art and music, interesting technical projects, community, philosophy, artificial intelligence, and of course, programming.
 - I enjoy C#, Go, Ruby, Clojure, PHP, and learning ASM on retro hardware (6502, Z80).
 - My most recent experience (the past 5 years) has been in health care technology.
 - I have held both individual developer and leadership roles in technology, although I consider myself a programmer and hands-on builder first.
