@@ -6,9 +6,9 @@
 - I have held both individual developer and leadership roles in technology, although I consider myself a programmer and hands-on builder first.
 - Currently experimenting with some healthcare-related, Azure-hosted side projects:
   + [AI-Powered Medical Image Processor](https://github.com/jerhow/AI-medical-image-processor)
-  + [Patient Data Hub & Visualizer (EHR/FHIR)](https://github.com/jerhow/EHR-FHIR-patient-data-hub)
   + [AI-Powered Medical Coding Assistant](https://github.com/jerhow/AI-medical-coding-assistant)
   + [AI-Powered Clinical Summary Generator](https://github.com/jerhow/AI-clinical-summary-generator)
+  + [Patient Data Hub & Visualizer (EHR/FHIR)](https://github.com/jerhow/EHR-FHIR-patient-data-hub)
  
 - Where to find me in a professional context:
   + [LinkedIn](https://www.linkedin.com/in/jerhow/)
